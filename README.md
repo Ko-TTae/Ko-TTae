@@ -74,7 +74,7 @@
 
 </details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ko-TTae&layout=compact&exclude_repo=github-slideshow,MPAndroidChart,github-upload)](https://github.com/anuraghazra/github-readme-stats,developer-roadmap,golang-tinode-chat)
+[![Top Langs](https://github-readme-stats-two-mauve-50.vercel.app/api/top-langs/?username=Ko-TTae&layout=compact&exclude_repo=github-slideshow,MPAndroidChart,github-upload)](https://github.com/anuraghazra/github-readme-stats,developer-roadmap,golang-tinode-chat)
 
 [![Git Stats](https://github-readme-stats-two-mauve-50.vercel.app/api?username=Ko-TTae&layout=compact&exclude_repo=github-slideshow,MPAndroidChart,github-upload)](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#deploy-on-your-own)
 
