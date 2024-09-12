@@ -16,7 +16,7 @@
 ![ts](https://img.shields.io/badge/ts-★★★-lightgrey?labelColor=3178C6&logo=typescript&style=for-the-badge&logoColor=white)
 ![js](https://img.shields.io/badge/js-★★★-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)
 ![php](https://img.shields.io/badge/php-★★★-lightgrey?labelColor=777BB4&logo=php&style=for-the-badge&logoColor=black)
-![java](https://img.shields.io/badge/java-★★☆-lightgrey?labelColor=F7DF1E&logo=java&style=for-the-badge&logoColor=black)
+![java](https://img.shields.io/badge/java-★★★-lightgrey?labelColor=F7DF1E&logo=java&style=for-the-badge&logoColor=black)
 
 ![mariaDB](https://img.shields.io/badge/MariaDB-★★★-lightgrey?labelColor=003545&logo=MariaDB&style=for-the-badge&logoColor=white)
 ![postgreSQL](https://img.shields.io/badge/PostgreSQL-★★★-lightgrey?labelColor=4169E1&logo=PostgreSQL&style=for-the-badge&logoColor=white)
